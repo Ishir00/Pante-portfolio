@@ -1,2 +1,0 @@
-# Pante-portfolio
-portfolio web
